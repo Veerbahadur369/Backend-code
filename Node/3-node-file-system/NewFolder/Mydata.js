@@ -1,0 +1,1 @@
+console.log("I am writing js file in new folder")

@@ -1,0 +1,22 @@
+{
+
+  "name": "3-node-file-system",
+  "version": "1.0.0",
+  "description": "learning file-system",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+    },
+  "keywords": [
+    "read",
+    "write",
+    "delete",
+    "open",
+    "rename",
+    "file",
+    "name"
+  ],
+
+  "author": "veer",
+  "license": "ISC"
+}
