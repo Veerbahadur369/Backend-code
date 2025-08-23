@@ -1,0 +1,14 @@
+{
+  "name": "1-node-basics",
+  "version": "1.0.0",
+  "description": "basics",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --watch index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.1"
+  }
+}
