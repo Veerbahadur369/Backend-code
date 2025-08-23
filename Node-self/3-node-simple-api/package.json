@@ -1,0 +1,11 @@
+{
+  "name": "3-node-simple-api",
+  "version": "1.0.0",
+  "description": "simple api",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --watch index.js"
+  },
+  "author": "veer",
+  "license": "ISC"
+}

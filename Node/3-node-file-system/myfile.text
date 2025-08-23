@@ -1,0 +1,3 @@
+This is the most common and recommended way to read files in Node.js, as it operates asynchronously and prevents blocking the main thread.
+ this is second append text in myfile.text
+ this is first apend file in myfile.text

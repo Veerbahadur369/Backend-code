@@ -1,0 +1,11 @@
+{
+  "name": "3.01-node-file-system",
+  "version": "1.0.0",
+  "description": "Now learing link to use css ,js ,image html in backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --watch index.js"
+  },
+  "author": "veer",
+  "license": "ISC"
+}

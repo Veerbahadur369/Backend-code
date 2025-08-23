@@ -5,8 +5,8 @@ const port = process.env.PORT
 
 const server = http.createServer((req,res)=>{
     res.setHeader("Content-Type","text/html")
-    res.write("<h2>hel h1 tag are you good</h2>")
-    res.end("end the response")
+    res.write("hel h1 tag are you good")
+    res.end()
    
 }) 
 

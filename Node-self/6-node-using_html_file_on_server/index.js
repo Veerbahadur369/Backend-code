@@ -7,12 +7,10 @@ http.createServer((req,res)=>{
       res.writable("somthing went wrong")
      }
      else{
-       res.writeHead(206,{"content-type":"text/html"})
+       res.writeHead(405,{"content-type":"text/html"})
       res.write(data)
       res.end()
      }
-
-
    })
 
 }

@@ -14,7 +14,7 @@ fs.writeFile("myfile.text","This is the most common and recommended way to read 
 fs.readFile("myfile.text","utf-8",(er,data)=>{
     if(er) console.error(er)
         else{
-    console.log("read file 1 \n \n")
+    console.log("read file 1  \n \n")
     console.log(data) 
         }
 })
@@ -41,7 +41,7 @@ fs.appendFile("myfile.text","\n this is second append text in myfile.text",(er)=
 fs.readFile("myfile.text","utf-8",(er,data)=>{
     if(er) console.error(er)
         else{
-    console.log("read file  3  \n \n")
+    console.log("read file  3 working  \n \n")
     console.log(data) 
     
         }
