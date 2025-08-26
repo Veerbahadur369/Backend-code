@@ -1,0 +1,12 @@
+{
+  "name": "11-node-path-module",
+  "version": "1.0.0",
+  "description": "This is path module learning folder",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --watch index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
